@@ -8,6 +8,8 @@ docker build -t phpswoole/golang-h2demo
 
 h2demo
 =====
+https://go.googlesource.com/net/+/refs/heads/master/http2/h2demo/
+
 This is a demo webserver that shows off Go's HTTP/2 support.
 
 It runs at https://http2.golang.org/ so people can hit our
